@@ -1201,6 +1201,10 @@
     "repo": "https://github.com/rintcius/purescript-mathbox.git",
     "version": "v0.4.0"
   },
+  "matrix": {
+    "repo": "https://github.com/AlexMouton/purescript-matrix.git",
+    "version": "v3.0.0"
+  },
   "maybe": {
     "dependencies": [
       "monoid",
@@ -2315,6 +2319,10 @@
     ],
     "repo": "https://github.com/slamdata/purescript-webdriver",
     "version": "v5.0.0"
+  },
+  "vector": {
+    "repo": "https://github.com/AlexMouton/purescript-vector.git",
+    "version": "v2.10"
   },
   "websocket-simple": {
     "dependencies": [
