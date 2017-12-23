@@ -1202,6 +1202,7 @@
     "version": "v0.4.0"
   },
   "matrix": {
+    "dependencies": [ ],
     "repo": "https://github.com/AlexMouton/purescript-matrix.git",
     "version": "v3.0.0"
   },
@@ -2321,6 +2322,7 @@
     "version": "v5.0.0"
   },
   "vector": {
+    "dependencies": [ ],
     "repo": "https://github.com/AlexMouton/purescript-vector.git",
     "version": "v2.10"
   },
