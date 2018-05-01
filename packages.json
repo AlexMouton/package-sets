@@ -2347,7 +2347,7 @@
     "version": "texImage2D"
   },
   "vector": {
-    "dependencies": [ ],
+    "dependencies": ["prelude"],
     "repo": "https://github.com/AlexMouton/purescript-vector.git",
     "version": "v2.10"
   },
