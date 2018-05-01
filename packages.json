@@ -567,6 +567,11 @@
     "repo": "https://github.com/nkly/purescript-express.git",
     "version": "v0.6.4"
   },
+  "extensions": {
+    "dependencies" : [],
+    "repo": "https://github.com/jutaro/purescript-extensions.git",
+    "version" : "v2.3.8"
+  },
   "filterable": {
     "dependencies": [
       "foldable-traversable",
