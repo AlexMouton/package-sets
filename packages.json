@@ -1183,8 +1183,8 @@
   },
   "math": {
     "dependencies": [],
-    "repo": "https://github.com/purescript/purescript-math.git",
-    "version": "v2.1.0"
+    "repo": "https://github.com/AlexMouton/purescript-math",
+    "version": "hyperbolics"
   },
   "mathbox": {
     "dependencies": [
@@ -1204,7 +1204,7 @@
   "matrix": {
     "dependencies": [ ],
     "repo": "https://github.com/AlexMouton/purescript-matrix.git",
-    "version": "v3.0.0"
+    "version": "nonSquare"
   },
   "maybe": {
     "dependencies": [
@@ -2320,6 +2320,11 @@
     ],
     "repo": "https://github.com/slamdata/purescript-webdriver",
     "version": "v5.0.0"
+  },
+  "webgl": {
+    "dependencies": [],
+    "repo": "https://github.com/AlexMouton/purescript-webgl.git",
+    "version": "texImage2D"
   },
   "vector": {
     "dependencies": [ ],
