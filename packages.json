@@ -2063,6 +2063,11 @@
     "repo": "https://github.com/owickstrom/purescript-spec-quickcheck.git",
     "version": "v2.0.0"
   },
+  "split": {
+    "dependencies": [],
+    "repo": "https://github.com/AlexMouton/purescript-split.git",
+    "version": "v0.1.0"
+  },
   "spork": {
     "dependencies": [
       "prelude",
