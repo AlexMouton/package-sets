@@ -233,6 +233,11 @@
     "repo": "https://github.com/justinwoo/purescript-chocopie.git",
     "version": "v1.0.0"
   },
+  "clock": {
+    "dependencies": [],
+    "repo" : "https://github.com/jacereda/purescript-clock.git",
+    "version" : "v1.0.1"
+  },
   "codec": {
     "dependencies": [
       "transformers",
