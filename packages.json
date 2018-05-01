@@ -568,7 +568,16 @@
     "version": "v0.6.4"
   },
   "extensions": {
-    "dependencies" : [],
+    "dependencies" : [
+      "arrays",
+      "integers",
+      "math",
+      "lists",
+      "tailrec",
+      "foreign-clone",
+      "partial",
+      "js-date"
+    ],
     "repo": "https://github.com/jutaro/purescript-extensions.git",
     "version" : "v2.3.8"
   },
