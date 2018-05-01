@@ -2225,6 +2225,11 @@
     "repo": "https://github.com/purescript/purescript-type-equality.git",
     "version": "v2.1.0"
   },
+  "typedarray": {
+    "dependencies": [],
+    "repo": "https://github.com/jutaro/purescript-typedarray.git",
+    "version": "v2.1.0"
+  },
   "typelevel": {
     "dependencies": [
       "partial",
