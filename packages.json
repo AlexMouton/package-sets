@@ -2342,7 +2342,7 @@
     "version": "v5.0.0"
   },
   "webgl": {
-    "dependencies": [],
+    "dependencies": ["arrays"],
     "repo": "https://github.com/AlexMouton/purescript-webgl.git",
     "version": "texImage2D"
   },
