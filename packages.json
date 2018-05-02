@@ -2355,7 +2355,25 @@
     "version": "v5.0.0"
   },
   "webgl": {
-    "dependencies": ["arrays"],
+    "dependencies": [
+      "prelude",
+      "monoid",
+      "control",
+      "invariant",
+      "maybe",
+      "functions",
+      "arraybuffer-types",
+      "typedarray",
+      "vector",
+      "matrix",
+      "integers",
+      "foldable-traversable",
+      "eff",
+      "either",
+      "tuples",
+      "unfoldable",
+      "canvas"
+    ],
     "repo": "https://github.com/AlexMouton/purescript-webgl.git",
     "version": "texImage2D"
   },
