@@ -2360,7 +2360,15 @@
     "version": "texImage2D"
   },
   "vector": {
-    "dependencies": ["proxy"],
+    "dependencies": [
+      "prelude",
+      "either",
+      "arrays",
+      "foldable-traversable",
+      "math",
+      "proxy",
+      "modules"
+    ],
     "repo": "https://github.com/AlexMouton/purescript-vector.git",
     "version": "v2.10"
   },
