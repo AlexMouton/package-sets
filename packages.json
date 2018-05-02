@@ -1221,7 +1221,11 @@
     "version": "v0.4.0"
   },
   "matrix": {
-    "dependencies": ["prelude", "strings"],
+    "dependencies": [
+      "vector",
+      "arrays",
+      "proxy"
+    ],
     "repo": "https://github.com/AlexMouton/purescript-matrix.git",
     "version": "nonSquare"
   },
