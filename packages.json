@@ -2393,7 +2393,7 @@
       "modules"
     ],
     "repo": "https://github.com/AlexMouton/purescript-vector.git",
-    "version": "v2.10"
+    "version": "master"
   },
   "websocket-simple": {
     "dependencies": [
